@@ -1,12 +1,12 @@
 body {
-	background:#59626D
+	background:black;
 }
 #mainContainer {
 	margin:auto;
 	margin-top:50px;
 	width:750px;
 	height:850px;
-	background-color:white;
+	background-color:#59629d;
 	border-right:5px solid #064158;
 	border-bottom:10px solid #064158;
 }
@@ -20,7 +20,7 @@ body {
 	border-top:5px solid #064158;
 }
 #header {
-	background:radial-gradient(closest-side at 50% 96%,white,black);
+	background:black;
 	top:25px;
 }
 #footer {
