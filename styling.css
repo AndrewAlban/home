@@ -1,12 +1,12 @@
 body {
-	background:black;
+	background:linear-gradient(#0c06a3,black);
 }
 #mainContainer {
 	margin:auto;
 	margin-top:50px;
 	width:750px;
 	height:850px;
-	background-color:#59629d;
+	background-color:#2427ff;
 	border-right:5px solid #064158;
 	border-bottom:10px solid #064158;
 }
