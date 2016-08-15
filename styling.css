@@ -28,7 +28,8 @@ body {
 }
 #logo {
 	position:relative;
-	width:713;
+	width:713px;
+	height:131px;
 }
 .headerTxt {
 	color:lightblue;
